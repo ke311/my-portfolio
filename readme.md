@@ -6,7 +6,7 @@
 This project is a website containing my photo and my background information.
 
 ## live link
-live link: https://ke311.github.io/my-portolio.github.io
+live link:https://ke311.github.io/my-portfolio.github.io/
 
 
 ## Setup/Installation Requirements
